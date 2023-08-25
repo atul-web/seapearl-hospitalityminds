@@ -1800,7 +1800,7 @@ img {
 .banner-section .content-box {
     position: relative;
     padding: 120px 15px 210px;
-    min-height: 900px;
+    min-height: 685px;
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
